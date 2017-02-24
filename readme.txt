@@ -3,3 +3,4 @@ this file is used to test git.
 this is the first change.
 this is the second change.
 this is added in dev branch.
+this is added in master branch.
