@@ -5,3 +5,4 @@ this is the second change.
 this is added in dev branch.
 this is added in master branch and in dev branch too.
 this is added in dev branch too.
+this is used to test commit amend; this is added.
